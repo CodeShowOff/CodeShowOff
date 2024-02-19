@@ -1,8 +1,8 @@
--Hi, I’m Shubham.
--I’m interested in Coding (till now).
--I have in depth knowledge of C.
--I’m currently learning Java & Python.
--Pronouns: He/Him
+-Hi, I’m Shubham.<br>
+-I’m interested in Coding (till now).<br>
+-I have in depth knowledge of C.<br>
+-I’m currently learning Java & Python.<br>
+-Pronouns: He/Him<br>
 
 <!---
 shujaiss/shujaiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
