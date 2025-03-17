@@ -24,7 +24,7 @@ I'm a **college student** currently pursuing **Computer Science and Engineering 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShowOff&layout=compact&theme=dark)
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/codeshowoff) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeshowoff/)
 <br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](Your Website Link) 
 
