@@ -26,7 +26,7 @@ I'm a **college student** currently pursuing **Computer Science and Engineering 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeshowoff/)
 <br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](Your Website Link) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/CodeShowOff) 
 
 ---
 ⭐ **Feel free to check out my repositories and drop a star if you like them!** ⭐
