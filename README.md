@@ -16,15 +16,16 @@ I'm a **college student** currently pursuing **Computer Science and Engineering 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📌 Featured Projects
-🔹 [**Project Name 1**](GitHub Repo Link) - Short description of what it does.
-🔹 [**Project Name 2**](GitHub Repo Link) - Another great project with a brief explanation.
+🔹 [**Banking System**](https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Banking%20System) - A simple banking system project demonstrating account management, transactions, and security features.  
+🔹 [**Shop Management System**](https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Shop%20Management%20System) - A shop management system for handling inventory, sales, and customer transactions efficiently.  
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeShowOff&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShowOff&layout=compact&theme=dark)
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn Link) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/codeshowoff) 
+<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](Your Website Link) 
 
 ---
