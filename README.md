@@ -7,7 +7,7 @@ I'm a **college student** currently pursuing **Computer Science and Engineering 
 - 🔭 Currently working on **N/A**
 - 🌱 Learning **Web Development**
 - 👯 Looking to collaborate on **N/A**
-- 📫 Reach me at **codeshowoff@gmail.com**
+- 📫 Reach me at **connectme.shubham@gmail.com**
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
