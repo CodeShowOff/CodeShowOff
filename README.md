@@ -17,6 +17,9 @@ I'm a **college student** currently pursuing **Computer Science and Engineering 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📌 Featured Projects
+🔹 [**Chat App**](https://github.com/CodeShowOff/NodeJs/tree/main/chat-app) - Real-time chat app built with Socket.IO, enabling instant messaging and dynamic conversations.
+🔹 [**Weather App**](https://github.com/CodeShowOff/NodeJs/tree/main/weather-app) - Interactive weather app that fetches real-time forecasts using location-based search.
+🔹 [**Tasks App**](https://github.com/CodeShowOff/NodeJs/tree/main/tasks-app) - Task manager app to create, track, and manage to-dos efficiently with persistence.
 🔹 [**Banking System**](https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Banking%20System) - A simple banking system project demonstrating account management, transactions, and security features.  
 🔹 [**Shop Management System**](https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Shop%20Management%20System) - A shop management system for handling inventory, sales, and customer transactions efficiently.  
 
