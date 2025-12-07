@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 - CSE Student @ GLA University  
-- Cybersecurity & Secure Backend Development  
+- Backend Developer
 - Currently building **<a href="https://pulse-ledger.vercel.app/" target="_blank"><b>PulseLedger</b></a>**
 - Learning DevOps: Docker, Kubernetes, CI/CD, Linux  
 - 📧 connectme.shubham@gmail.com  
