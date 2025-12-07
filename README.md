@@ -1,36 +1,95 @@
-# Hi there! 👋 I'm Shubham
-
-## 🚀 About Me
-I'm a **college student** currently pursuing **Computer Science and Engineering (CSE)**. Passionate about **Cybersecurity**, I enjoy learning new technologies and working on projects that challenge me.
-
-- 🎓 Studying at **GLA University**
-- 🔭 Currently working on **N/A**
-- 🌱 Learning **Web Development**
-- 👯 Looking to collaborate on **N/A**
-- 📫 Reach me at **connectme.shubham@gmail.com**
-
-## 🛠 Tech Stack
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-## 📌 Featured Projects
-🔹 [**Chat App**](https://github.com/CodeShowOff/NodeJs/tree/main/chat-app) - Real-time chat app built with Socket.IO, enabling instant messaging and dynamic conversations.    
-🔹 [**Weather App**](https://github.com/CodeShowOff/NodeJs/tree/main/weather-app) - Interactive weather app that fetches real-time forecasts using location-based search.    
-🔹 [**Tasks App**](https://github.com/CodeShowOff/NodeJs/tree/main/tasks-app) - Task manager app to create, track, and manage to-dos efficiently with persistence.  
-🔹 [**Banking System**](https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Banking%20System) - A simple banking system project demonstrating account management, transactions, and security features.  
-🔹 [**Shop Management System**](https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Shop%20Management%20System) - A shop management system for handling inventory, sales, and customer transactions efficiently.  
-
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeShowOff&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShowOff&layout=compact&theme=dark)
-
-## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeshowoff/)
-<br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/CodeShowOff) 
+<!-- 🌌 Deluxe Neon Gradient Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3300&color=00fff6&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Shubham+👋;Welcome+to+My+Digital+Space+🚀" />
+</p>
 
 ---
-⭐ **Feel free to check out my repositories and drop a star if you like them!** ⭐
+
+## 🚀 About Me  
+- CSE Student @ GLA University  
+- Cybersecurity & Secure Backend Development  
+- Currently building **PulseLedger:** https://pulse-ledger.vercel.app/
+- Learning DevOps: Docker, Kubernetes, CI/CD, Linux  
+- Passionate about System Design & Secure Architecture  
+- 📧 connectme.shubham@gmail.com  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,nodejs,express,mongodb,git,github,vscode" width="750"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 💰 PulseLedger (In Development)
+🔗 Live URL → https://pulse-ledger.vercel.app/
+
+### 💬 Chat App
+Real-time messaging using Socket.IO  
+🔗 https://github.com/CodeShowOff/NodeJs/tree/main/chat-app
+
+### 🌦 Weather App
+Live weather info through API  
+🔗 https://github.com/CodeShowOff/NodeJs/tree/main/weather-app
+
+### 📝 Tasks App
+To-do creation, tracking, management  
+🔗 https://github.com/CodeShowOff/NodeJs/tree/main/tasks-app
+
+### 🏦 Banking System
+Account + transaction + security logic  
+🔗 https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Banking%20System
+
+### 🏪 Shop Management System
+Billing + inventory management  
+🔗 https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Shop%20Management%20System
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeShowOff&theme=neon-dark&hide_border=true&border_radius=10"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeShowOff&theme=dracula&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeShowOff&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/CodeShowOff?theme=dark&font=JetBrains%20Mono&border_radius=12" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:connectme.shubham@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"></a>
+<a href="https://www.linkedin.com/in/codeshowoff/"><img src="https://skillicons.dev/icons?i=linkedin" width="55"></a>
+<a href="https://github.com/CodeShowOff"><img src="https://skillicons.dev/icons?i=github" width="55"></a>
+</p>
+
+---
+
+<p align="center">⭐ If you find value in my projects, a star really motivates! 🙌</p>
