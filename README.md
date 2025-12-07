@@ -10,7 +10,6 @@
 - Cybersecurity & Secure Backend Development  
 - Currently building **<a href="https://pulse-ledger.vercel.app/" target="_blank"><b>PulseLedger</b></a>**
 - Learning DevOps: Docker, Kubernetes, CI/CD, Linux  
-- Passionate about System Design & Secure Architecture  
 - 📧 connectme.shubham@gmail.com  
 
 ---
