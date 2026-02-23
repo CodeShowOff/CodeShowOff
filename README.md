@@ -9,7 +9,7 @@
 - CSE Student @ GLA University  
 - Backend Developer
 - Currently building **<a href="https://pulse-ledger.vercel.app/" target="_blank"><b>PulseLedger</b></a>**
-- Learning DevOps: Docker, Kubernetes, CI/CD, Linux  
+- Exploring DevOps: Docker, Kubernetes, CI/CD, Linux  
 - 📧 connectme.shubham@gmail.com  
 
 ---
@@ -24,28 +24,21 @@
 
 ## 🌟 Featured Projects
 
-### 💰 PulseLedger (In Development)
+### PulseLedger
+The all-in-one platform connecting health coaches and clients. Track progress, manage plans, and achieve wellness goals together.
 🔗 Live URL → https://pulse-ledger.vercel.app/
 
-### 💬 Chat App
-Real-time messaging using Socket.IO  
-🔗 https://github.com/CodeShowOff/NodeJs/tree/main/chat-app
+### PerfSight
+Performance Monitoring Platform - A comprehensive full-stack application for real-time performance monitoring, regression detection, and Git-tracked baseline management.
+🔗 Live URL → https://github.com/CodeShowOff/PerfSight
 
-### 🌦 Weather App
-Live weather info through API  
-🔗 https://github.com/CodeShowOff/NodeJs/tree/main/weather-app
+### CaughtYou
+A graph-based financial crime detection engine that ingests CSV transaction data, constructs a directed transaction graph, and runs multiple fraud-detection algorithms to identify money muling networks, layering schemes, and smurfing patterns.
+🔗 Live URL → https://caughtyou-cso.vercel.app/
 
-### 📝 Tasks App
-To-do creation, tracking, management  
-🔗 https://github.com/CodeShowOff/NodeJs/tree/main/tasks-app
-
-### 🏦 Banking System
-Account + transaction + security logic  
-🔗 https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Banking%20System
-
-### 🏪 Shop Management System
-Billing + inventory management  
-🔗 https://github.com/CodeShowOff/Java/tree/main/_SmallProjects/Shop%20Management%20System
+### SWIFT
+Swift is a full‑stack, AI‑powered workflow planner.
+🔗 Repo URL → https://swift-cso.vercel.app/
 
 ---
 
