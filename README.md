@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - CSE Student @ GLA University  
 - Backend Developer
-- Currently building **<a href="https://pulse-ledger.vercel.app/" target="_blank"><b>PulseLedger</b></a>**
+- Currently building **<a href="https://fitcoachapp.vercel.app/" target="_blank"><b>FitCoach</b></a>**
 - Exploring DevOps: Docker, Kubernetes, CI/CD, Linux  
 - 📧 connectme.shubham@gmail.com  
 
@@ -24,9 +24,9 @@
 
 ## 🌟 Featured Projects
 
-### PulseLedger
+### FitCoach
 The all-in-one platform connecting health coaches and clients. Track progress, manage plans, and achieve wellness goals together.<br>
-🔗 Live URL → https://pulse-ledger.vercel.app/
+🔗 Live URL → https://fitcoachapp.vercel.app/
 
 ### PerfSight
 Performance Monitoring Platform - A comprehensive full-stack application for real-time performance monitoring, regression detection, and Git-tracked baseline management.<br>
