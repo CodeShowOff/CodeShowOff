@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - CSE Student @ GLA University  
 - Backend Developer
-- Currently building **<a href="https://fitcoachapp.vercel.app/" target="_blank"><b>FitCoach</b></a>**
+- Currently building **<a href="https://fitcoachapp.in/" target="_blank"><b>FitCoach</b></a>**
 - Exploring DevOps: Docker, Kubernetes, CI/CD, Linux  
 - 📧 connectme.shubham@gmail.com  
 
