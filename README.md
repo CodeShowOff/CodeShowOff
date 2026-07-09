@@ -26,7 +26,7 @@
 
 ### FitCoach
 The all-in-one platform connecting health coaches and clients. Track progress, manage plans, and achieve wellness goals together.<br>
-🔗 Live URL → https://fitcoachapp.vercel.app/
+🔗 Live URL → https://fitcoachapp.in/
 
 ### PerfSight
 Performance Monitoring Platform - A comprehensive full-stack application for real-time performance monitoring, regression detection, and Git-tracked baseline management.<br>
