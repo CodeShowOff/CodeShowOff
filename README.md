@@ -28,17 +28,17 @@
 The all-in-one platform connecting health coaches and clients. Track progress, manage plans, and achieve wellness goals together.<br>
 🔗 Live URL → https://fitcoachapp.in/
 
-### PerfSight
-Performance Monitoring Platform - A comprehensive full-stack application for real-time performance monitoring, regression detection, and Git-tracked baseline management.<br>
-🔗 Live URL → https://github.com/CodeShowOff/PerfSight
-
 ### CaughtYou
 A graph-based financial crime detection engine that ingests CSV transaction data, constructs a directed transaction graph, and runs multiple fraud-detection algorithms to identify money muling networks, layering schemes, and smurfing patterns.<br>
 🔗 Live URL → https://caughtyou-cso.vercel.app/
 
-### SWIFT
-Swift is a full‑stack, AI‑powered workflow planner.<br>
-🔗 Repo URL → https://swift-cso.vercel.app/
+### TransitOps
+TransitOps is a comprehensive Fleet Management System designed to streamline and manage all operations related to vehicles, drivers, trips, maintenance, and fuel expenses.<br>
+🔗 Live URL → https://github.com/CodeShowOff/TransitOps
+
+### PerfSight
+Performance Monitoring Platform - A comprehensive full-stack application for real-time performance monitoring, regression detection, and Git-tracked baseline management.<br>
+🔗 Live URL → https://github.com/CodeShowOff/PerfSight
 
 ---
 
