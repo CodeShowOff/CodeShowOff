@@ -50,26 +50,10 @@ Performance Monitoring Platform - A comprehensive full-stack application for rea
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CodeShowOff&theme=neon-dark&hide_border=true&border_radius=10"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeShowOff&theme=dracula&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeShowOff&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
