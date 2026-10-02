@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - CSE Student @ GLA University  
 - Backend Developer
-- Currently building **<a href="https://argumenta.in/" target="_blank"><b>Argumenta</b></a>**
+- Currently building **<a href="https://helpnearbycso.vercel.app/" target="_blank"><b>HelpNearby</b></a>**
 - Exploring DevOps: Docker, Kubernetes, CI/CD, Linux  
 - 📧 connectme.shubham@gmail.com  
 
@@ -24,8 +24,16 @@
 
 ## 🌟 Featured Projects
 
+### Argumenta
+Argumenta is an AI-powered debate platform that transforms discussion into an engaging, competitive experience where every claim can be challenged, supported, and evaluated. Take part in meaningful debates, explore different perspectives, and strengthen your arguments with intelligent AI-driven insights. Track your progress, compete on leaderboards, and make your voice heard on the topics that matter to you.<br>
+🔗 Live URL → https://argumenta.in/
+
+### HelpNearby
+HelpNearby is a hyper-local, community-driven emergency and assistance platform. It allows users ("Seekers") to post urgent requests—such as medical emergencies, safety concerns, or immediate physical assistance—and matches them in real-time with verified people nearby ("Helpers") who can respond.<br>
+🔗 Live URL → https://helpnearbycso.vercel.app/
+
 ### FitCoach
-The all-in-one platform connecting health coaches and clients. Track progress, manage plans, and achieve wellness goals together.<br>
+FitCoach is an all-in-one platform for fitness and health coaches to manage their entire business in one place. Coaches can create personalized workout and nutrition plans, manage clients, communicate through chat, track progress, sell products and subscriptions, and monitor earnings. Clients get an easy way to follow their plans, track workouts, nutrition, hydration, progress, and connect with their coach.<br>
 🔗 Live URL → https://fitcoachapp.in/
 
 ### CaughtYou
