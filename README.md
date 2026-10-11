@@ -20,28 +20,28 @@
   <tr>
     <td align="center" width="160">
       <a href="https://www.radiusapp.tech/">
-        <img src="https://www.radiusapp.tech/app_icon.png" width="65" height="65" alt="Radius App"/>
+        <img src="https://drive.google.com/file/d/1tKFu7R4WiTwaxgVKoidDVUhsUJqlXRiA/view?usp=drive_link" width="65" height="65" alt="Radius App"/>
         <br/><br/>
         <b>Radius App</b>
       </a>
     </td>
     <td align="center" width="160">
       <a href="https://helpnearbycso.vercel.app/">
-        <img src="https://placehold.co/65x65/161b22/ffffff?text=H" width="65" height="65" alt="HelpNearby"/>
+        <img src="https://drive.google.com/file/d/1egyAxDXwMyKY8mGugMMtHtXUn675cw4E/view?usp=drive_link" width="65" height="65" alt="HelpNearby"/>
         <br/><br/>
         <b>HelpNearby</b>
       </a>
     </td>
     <td align="center" width="160">
       <a href="https://argumenta.in/">
-        <img src="https://argumenta.in/Logo-dark-transparent.webp" width="65" height="65" alt="Argumenta"/>
+        <img src="https://drive.google.com/file/d/1TKrtIRyj_fKHCe81Fu6hcWhBova6jwyR/view?usp=drive_link" width="65" height="65" alt="Argumenta"/>
         <br/><br/>
         <b>Argumenta</b>
       </a>
     </td>
     <td align="center" width="160">
       <a href="https://fitcoachapp.in/">
-        <img src="https://placehold.co/65x65/161b22/ffffff?text=F" width="65" height="65" alt="FitCoach"/>
+        <img src="https://drive.google.com/file/d/1OGWirlNOGa4jvtpfXQpKPvPLsFTmX9Zn/view?usp=drive_link" width="65" height="65" alt="FitCoach"/>
         <br/><br/>
         <b>FitCoach</b>
       </a>
