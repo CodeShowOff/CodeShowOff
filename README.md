@@ -10,24 +10,39 @@
 - Backend Developer
 - Currently building **<a href="https://helpnearbycso.vercel.app/" target="_blank"><b>HelpNearby</b></a>**
 - Exploring DevOps: Docker, Kubernetes, CI/CD, Linux  
-- 📧 connectme.shubham@gmail.com  
+- 📧 connectme.shubham@gmail.com
 
 ---
 
 ## 🔗 Quick Links
 
 <p align="center">
-  <a href="https://www.radiusapp.tech/">
-    <img src="https://www.radiusapp.tech/app_icon.png" alt="Radius App"/>
+  <a href="https://www.radiusapp.tech/" target="_blank">
+    <img src="https://www.radiusapp.tech/app_icon.png"
+         alt="Radius App"
+         width="60"
+         height="60"/>
   </a>
-  <a href="https://helpnearbycso.vercel.app/">
-    <img src="" alt="HelpNearby"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://helpnearbycso.vercel.app/" target="_blank">
+    <img src="https://via.placeholder.com/60"
+         alt="HelpNearby"
+         width="60"
+         height="60"/>
   </a>
-  <a href="https://argumenta.in/">
-    <img src="https://argumenta.in/Logo-dark-transparent.webp" alt="Argumenta"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://argumenta.in/" target="_blank">
+    <img src="https://argumenta.in/Logo-dark-transparent.webp"
+         alt="Argumenta"
+         width="60"
+         height="60"/>
   </a>
-  <a href="https://fitcoachapp.in/">
-    <img src="" alt="FitCoach"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://fitcoachapp.in/" target="_blank">
+    <img src="https://via.placeholder.com/60"
+         alt="FitCoach"
+         width="60"
+         height="60"/>
   </a>
 </p>
 
