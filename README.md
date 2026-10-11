@@ -18,31 +18,27 @@
 
 <p align="center">
   <a href="https://www.radiusapp.tech/" target="_blank">
-    <img src="https://www.radiusapp.tech/app_icon.png"
-         alt="Radius App"
-         width="60"
-         height="60"/>
+    <img src="https://www.radiusapp.tech/app_icon.png" width="60" height="60" alt="Radius App"/>
+    <br/>
+    <b>Radius App</b>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://helpnearbycso.vercel.app/" target="_blank">
-    <img src="https://via.placeholder.com/60"
-         alt="HelpNearby"
-         width="60"
-         height="60"/>
+    <img src="https://via.placeholder.com/60" width="60" height="60" alt="HelpNearby"/>
+    <br/>
+    <b>HelpNearby</b>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://argumenta.in/" target="_blank">
-    <img src="https://argumenta.in/Logo-dark-transparent.webp"
-         alt="Argumenta"
-         width="60"
-         height="60"/>
+    <img src="https://argumenta.in/Logo-dark-transparent.webp" width="60" height="60" alt="Argumenta"/>
+    <br/>
+    <b>Argumenta</b>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://fitcoachapp.in/" target="_blank">
-    <img src="https://via.placeholder.com/60"
-         alt="FitCoach"
-         width="60"
-         height="60"/>
+    <img src="https://via.placeholder.com/60" width="60" height="60" alt="FitCoach"/>
+    <br/>
+    <b>FitCoach</b>
   </a>
 </p>
 
