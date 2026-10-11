@@ -16,31 +16,38 @@
 
 ## 🔗 Quick Links
 
-<p align="center">
-  <a href="https://www.radiusapp.tech/" target="_blank">
-    <img src="https://www.radiusapp.tech/app_icon.png" width="60" height="60" alt="Radius App"/>
-    <br/>
-    <b>Radius App</b>
-  </a>
-  &nbsp;&nbsp; | &nbsp;&nbsp;
-  <a href="https://helpnearbycso.vercel.app/" target="_blank">
-    <img src="https://via.placeholder.com/60" width="60" height="60" alt="HelpNearby"/>
-    <br/>
-    <b>HelpNearby</b>
-  </a>
-  &nbsp;&nbsp; | &nbsp;&nbsp;
-  <a href="https://argumenta.in/" target="_blank">
-    <img src="https://argumenta.in/Logo-dark-transparent.webp" width="60" height="60" alt="Argumenta"/>
-    <br/>
-    <b>Argumenta</b>
-  </a>
-  &nbsp;&nbsp; | &nbsp;&nbsp;
-  <a href="https://fitcoachapp.in/" target="_blank">
-    <img src="https://via.placeholder.com/60" width="60" height="60" alt="FitCoach"/>
-    <br/>
-    <b>FitCoach</b>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.radiusapp.tech/">
+        <img src="https://www.radiusapp.tech/app_icon.png" width="65" height="65" alt="Radius App"/>
+        <br/><br/>
+        <b>Radius App</b>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://helpnearbycso.vercel.app/">
+        <img src="https://placehold.co/65x65/161b22/ffffff?text=H" width="65" height="65" alt="HelpNearby"/>
+        <br/><br/>
+        <b>HelpNearby</b>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://argumenta.in/">
+        <img src="https://argumenta.in/Logo-dark-transparent.webp" width="65" height="65" alt="Argumenta"/>
+        <br/><br/>
+        <b>Argumenta</b>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://fitcoachapp.in/">
+        <img src="https://placehold.co/65x65/161b22/ffffff?text=F" width="65" height="65" alt="FitCoach"/>
+        <br/><br/>
+        <b>FitCoach</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
