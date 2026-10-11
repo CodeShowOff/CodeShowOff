@@ -14,6 +14,25 @@
 
 ---
 
+## 🔗 Quick Links
+
+<p align="center">
+  <a href="https://www.radiusapp.tech/">
+    <img src="https://www.radiusapp.tech/app_icon.png" alt="Radius App"/>
+  </a>
+  <a href="https://helpnearbycso.vercel.app/">
+    <img src="" alt="HelpNearby"/>
+  </a>
+  <a href="https://argumenta.in/">
+    <img src="https://argumenta.in/Logo-dark-transparent.webp" alt="Argumenta"/>
+  </a>
+  <a href="https://fitcoachapp.in/">
+    <img src="" alt="FitCoach"/>
+  </a>
+</p>
+
+---
+
 ## ⚙️ Tech Stack
 
 <p align="center">
