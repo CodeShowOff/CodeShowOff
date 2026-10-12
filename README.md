@@ -14,7 +14,7 @@
 
 ---
 
-## 🔗 Quick Links
+## 🔗 App Links
 
 <table align="center">
   <tr>
