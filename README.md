@@ -50,6 +50,22 @@
         <b>FitCoach</b>
       </a>
     </td>
+    <td align="center" width="160">
+      <a href="https://github.com/CodeShowOff/XPENC">
+        <img src="https://drive.google.com/file/d/1-73BGZIufYMwjmzwdGIVJfnb3kvdVhJw/view?usp=sharing"
+             width="65" height="65" alt="Xpenc"/>
+        <br/><br/>
+        <b>Argumenta</b>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/CodeShowOff/RecorderZ">
+        <img src="https://drive.google.com/file/d/1cYYI767_wACYj9SFPJO7WzPUIK1Yj498/view?usp=sharing"
+             width="65" height="65" alt="RecorderZ"/>
+        <br/><br/>
+        <b>Argumenta</b>
+      </a>
+    </td>
   </tr>
 </table>
 
