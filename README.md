@@ -52,18 +52,18 @@
     </td>
     <td align="center" width="160">
       <a href="https://github.com/CodeShowOff/XPENC">
-        <img src="https://drive.google.com/file/d/1-73BGZIufYMwjmzwdGIVJfnb3kvdVhJw/view?usp=sharing"
+        <img src="https://drive.google.com/uc?export=view&id=1-73BGZIufYMwjmzwdGIVJfnb3kvdVhJw"
              width="65" height="65" alt="Xpenc"/>
         <br/><br/>
-        <b>Argumenta</b>
+        <b>Xpenc</b>
       </a>
     </td>
     <td align="center" width="160">
       <a href="https://github.com/CodeShowOff/RecorderZ">
-        <img src="https://drive.google.com/file/d/1cYYI767_wACYj9SFPJO7WzPUIK1Yj498/view?usp=sharing"
+        <img src="https://drive.google.com/uc?export=view&id=1cYYI767_wACYj9SFPJO7WzPUIK1Yj498"
              width="65" height="65" alt="RecorderZ"/>
         <br/><br/>
-        <b>Argumenta</b>
+        <b>RecorderZ</b>
       </a>
     </td>
   </tr>
